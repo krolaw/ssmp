@@ -6,7 +6,7 @@ title: Safe and Simple Mail Protocol (SSMP)
 Very early beginnings.
 
 <noscript>
-<em>Note:</em> Javascript has been disabled, view this page here: https://krolaw.github.io/wsd/ReadMe
+<em>Note:</em> Javascript has been disabled, view this page here: https://krolaw.github.io/ssmp/ReadMe
 </noscript>
 
 <script src="https://krolaw.github.io/wsd/wsd.js"></script>
