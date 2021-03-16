@@ -50,7 +50,7 @@ b.com->a.com: alice@a.com->bob@b.com\ncode: xyz456\ntime: 202105221515\nsignatur
 a.com->b.com: Requests public key
 b.com->a.com: Returns key
 note right: a.com: Signs time+secret+\nalice->bob@b.com\nwith public key. Checks\nresult matches signature.
-a.com->b.com: bob->alice@a.com\ncode: abc123
+a.com->b.com: bob@b.com->alice@a.com\ncode: abc123
 b.com->B: Emails successfully shared
 A->a.com: Allow bob@b.com
 a.com->A: Emails successfully shared
