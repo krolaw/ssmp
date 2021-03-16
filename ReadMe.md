@@ -8,7 +8,7 @@ Respository: [https://github.com/krolaw/ssmp](https://github.com/krolaw/ssmp)
 Very early beginnings.
 
 <noscript>
-<em>Note:</em> <strong style="color:red">Javascript has been disabled</strong>, view this page properly here: https://krolaw.github.io/ssmp/ReadMe<br>
+<p><em>Note:</em> <strong style="color:red">Javascript has been disabled</strong>, view this page properly here: https://krolaw.github.io/ssmp/ReadMe</p>
 </noscript>
 
 <script src="https://krolaw.github.io/wsd/wsd.js"></script>
