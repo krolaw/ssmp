@@ -8,7 +8,7 @@ Respository: [https://github.com/krolaw/ssmp](https://github.com/krolaw/ssmp)
 Very early beginnings.
 
 <noscript>
-<em>Note:</em> Javascript has been disabled, view this page properly here: https://krolaw.github.io/ssmp/ReadMe
+<em>Note:</em> <strong style="color:red">Javascript has been disabled</strong>, view this page properly here: https://krolaw.github.io/ssmp/ReadMe
 </noscript>
 
 <script src="https://krolaw.github.io/wsd/wsd.js"></script>
@@ -48,7 +48,8 @@ a.com-->A: Pending
 B->b.com: Allow alice@a.com
 b.com->a.com: alice@a.com->bob@b.com\ncode: xyz456\ntime: 202105221515\nsignature: <sig>
 a.com->b.com: Requests public key
-note right: a.com: Signs time+secret+\nalice->bob@b.com with public key.\nChecks result matches signature.
+b.com->a.com: Returns key
+note right: a.com: Signs time+secret+\nalice->bob@b.com\nwith public key. Checks\nresult matches signature.
 a.com->b.com: bob->alice@a.com\ncode: abc123
 b.com->B: Emails successfully shared
 A->a.com: Allow bob@b.com
